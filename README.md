@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-I am a passionate software developer with experience in building web applications, databases, and automation tools. I love learning new technologies and solving real-world problems.  
+I am a passionate software developer with experience in building some database, games. 
 
 ---
 
